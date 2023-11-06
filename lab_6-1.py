@@ -1,3 +1,4 @@
+#Ryan Rinvil, 11/6/2023
 # Creates a list containing the numbers 1 to 5 and stores it as a variable called my_arr.
 my_arr = [1, 2, 3, 4, 5]
 
